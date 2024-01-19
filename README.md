@@ -1,9 +1,12 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 
 ![camp](https://github.com/samik1234/travel-camp/assets/82882143/8c3f3a62-c6b0-4167-9e6b-90284306877b)
 
 ## Getting Started
+
+Tech Stack
+Next.js
+Tailwind CSS
 
 First, run the development server:
 
