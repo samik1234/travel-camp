@@ -1,12 +1,14 @@
 
-
-![camp](https://github.com/samik1234/travel-camp/assets/82882143/8c3f3a62-c6b0-4167-9e6b-90284306877b)
-
-## Getting Started
+Built with Next.js, TailwindCSS, and TypeScript, this landing page not only looks great but also serves as a hands-on project to reinforce one's understanding of these technologies.
 
 Tech Stack
 Next.js
 Tailwind CSS
+
+
+![camp](https://github.com/samik1234/travel-camp/assets/82882143/8c3f3a62-c6b0-4167-9e6b-90284306877b)
+
+## Getting Started
 
 First, run the development server:
 
