@@ -6,7 +6,9 @@ Next.js
 Tailwind CSS
 
 
-![camp](https://github.com/samik1234/travel-camp/assets/82882143/8c3f3a62-c6b0-4167-9e6b-90284306877b)
+
+
+![camp](https://github.com/samik1234/travel-camp/assets/82882143/de960dab-88ee-4e85-802a-5d3d1c7b3538)
 
 
 
@@ -14,7 +16,8 @@ Tailwind CSS
 
 
 
-![ccvt](https://github.com/samik1234/travel-camp/assets/82882143/2ac556a1-5dc3-4024-ad2f-049f784c2a3e)
+![ccvt](https://github.com/samik1234/travel-camp/assets/82882143/5f3cb8fa-2c9c-4823-8510-234ac215eca2)
+
 
 ## Getting Started
 
