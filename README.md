@@ -30,9 +30,7 @@ Tailwind CSS
 
 👉 Call to Action for Mobile Apps: A call-to-action section encouraging users to explore the mobile app version, complete with download links.
 
-👉 Footer: Comprehensive footer section containing site and social media links for easy navigation and connectivity.
-
-and many more, including code architecture and reusability
+👉 Footer: Comprehensive footer section containing site and social media links for easy navigation and connectivity and many more, including code architecture and reusability
 
 
 ## Getting Started
