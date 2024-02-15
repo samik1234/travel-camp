@@ -1,5 +1,11 @@
 
 
+Built with Next.js, TailwindCSS, and TypeScript, this landing page not only looks great but also serves as a hands-on project to reinforce one's understanding of these technologies.
+
+
+Tech Stack
+Next.js
+Tailwind CSS
 
 ![camp](https://github.com/samik1234/travel-camp/assets/82882143/de960dab-88ee-4e85-802a-5d3d1c7b3538)
 
