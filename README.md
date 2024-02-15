@@ -12,11 +12,6 @@ Tailwind CSS
 
 
 
-
-
-
-![ccvt](https://github.com/samik1234/travel-camp/assets/82882143/5f3cb8fa-2c9c-4823-8510-234ac215eca2)
-
 🔋 Features
 
 👉 Appealing Hero Section: Visually striking hero section that captures attention and sets the tone for the website
